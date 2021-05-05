@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "762728059871",
+    "project_id": "messaging-test-cb2d1",
+    "storage_bucket": "messaging-test-cb2d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762728059871:android:f138d8874c975ecce36a6a",
+        "android_client_info": {
+          "package_name": "co.in.messaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762728059871-7cid424u3fvdv08vl83tv5q79nk8f67d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBubDL1XVFIagJ2CH4b-8I8IZoJhfxtfrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762728059871-7cid424u3fvdv08vl83tv5q79nk8f67d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
